@@ -3,10 +3,9 @@ react-sticky [![Build Status](https://travis-ci.org/captivationsoftware/react-st
 
 Make your React components sticky!
 
-#### Update (7/2017): No longer actively maintained:
-The 6.0.1 release is the last release maintained by Captivation Software. This means we will not be considering any PR's and/or responding to any issues until a new maintainer is identified. It is *highly* recommended that you begin transitioning to another sticky library to ensure better support and sustainability. This is obviously less than ideal - sorry for any inconvenience!
+#### Note About Fork
 
-If you are interested in taking over ownership of react-sticky and are willing and able to invest the time the React community deserves, send a message to info@captivationsoftware.com. 
+This fork of `react-sticky` is published as `@jballands/react-sticky`. The current version is **1.0.0**.
 
 #### Demos
   - [Basic](http://rawgit.com/captivationsoftware/react-sticky/master/examples/basic/index.html)
