@@ -155,3 +155,6 @@ app.js
   ...
 </StickyContainer>
 ```
+
+#### onScroll
+A callback function that takes the same arguments as `<Sticky />`s child function. Invoked when the user scrolls. Allows you to call `setState` in respose to `wasSticky`, `isSticky` etc events without React complaining.

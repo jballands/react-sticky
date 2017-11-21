@@ -1,24 +1,21 @@
 {
-  "name": "react-sticky",
-  "version": "6.0.1",
-  "description": "Sticky component for React",
+  "name": "@jballands/react-sticky",
+  "version": "1.0.0",
+  "description":
+    "Fork of captivationsoftware/react-sticky with additional functionality",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
-    "compile": "babel src --loose --out-dir lib",
+    "build": "babel src --loose --out-dir lib",
     "start": "webpack --watch",
-    "prepublish": "npm run clean && npm run compile",
+    "prepublish": "yarn run clean && yarn run build",
     "test": "mocha test/setup.js test/spec/*.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/captivationsoftware/react-sticky"
   },
-  "keywords": [
-    "react-component",
-    "React",
-    "Sticky"
-  ],
+  "keywords": ["react-component", "React", "Sticky"],
   "author": "Captivation Software",
   "license": "MIT",
   "homepage": "https://github.com/captivationsoftware/react-sticky",
