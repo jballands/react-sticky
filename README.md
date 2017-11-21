@@ -12,11 +12,6 @@ This fork of `react-sticky` is published as `@jballands/react-sticky`. The curre
   - [Relative](http://rawgit.com/captivationsoftware/react-sticky/master/examples/relative/index.html)
   - [Stacked](http://rawgit.com/captivationsoftware/react-sticky/master/examples/stacked/index.html)
 
-#### Version 6.x Highlights
-  - Completely redesigned to support sticky behavior via higher-order component, giving you ultimate control of implementation details
-  - Features a minimal yet efficient API
-  - Drops support for versions of React < 15.3. If you are using an earlier version of React, continue to use the 5.x series
-
 ## Installation
 ```sh
 npm install react-sticky
