@@ -1,8 +1,7 @@
 {
   "name": "@jballands/react-sticky",
-  "version": "1.0.0",
-  "description":
-    "Fork of captivationsoftware/react-sticky with additional functionality",
+  "version": "1.1.0",
+  "description": "Fork of captivationsoftware/react-sticky with additional functionality",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
@@ -15,7 +14,11 @@
     "type": "git",
     "url": "https://github.com/captivationsoftware/react-sticky"
   },
-  "keywords": ["react-component", "React", "Sticky"],
+  "keywords": [
+    "react-component",
+    "React",
+    "Sticky"
+  ],
   "author": "Captivation Software",
   "license": "MIT",
   "homepage": "https://github.com/captivationsoftware/react-sticky",
